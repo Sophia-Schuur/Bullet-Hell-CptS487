@@ -1,0 +1,14 @@
+{
+	"Wave1": { 
+		"Scripts": ["Wave1"]
+	},
+  "Wave3": {
+    "Scripts": [ "Wave3" ]
+  },
+	"Wave2": {
+		"Scripts": ["Wave2"]
+	},
+	"Wave4": {
+		"Scripts": ["Wave4"]
+	}
+}
