@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>D:/Documents Hard Drive/CptS 487/Bullet-Hell-CptS487/Take3/Content/Textures/Buttons/GalleryButton.PNG</SourceFile>
-  <SourceTime>2019-04-24T14:42:04.8076656-07:00</SourceTime>
-  <DestFile>D:/Documents Hard Drive/CptS 487/Bullet-Hell-CptS487/Take3/Content/bin/Windows/Content/Textures/Buttons/GalleryButton.xnb</DestFile>
-  <DestTime>2020-05-14T15:38:27.979233-07:00</DestTime>
+  <SourceFile>C:/Users/Sophie/Desktop/487 gitlab/487sp19_bullethell/Take3/Take3/Content/Textures/Buttons/GalleryButton.PNG</SourceFile>
+  <SourceTime>2019-04-25T10:52:14.7795428-07:00</SourceTime>
+  <DestFile>C:/Users/Sophie/Desktop/487 gitlab/487sp19_bullethell/Take3/Take3/Content/bin/Windows/Content/Textures/Buttons/GalleryButton.xnb</DestFile>
+  <DestTime>2019-04-25T10:55:24.577306-07:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T08:35:54-08:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
